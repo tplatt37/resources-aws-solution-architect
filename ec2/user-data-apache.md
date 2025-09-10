@@ -1,6 +1,6 @@
 # EC2 - User Data Demonstration
 
-When you launch an Amazon EC2 instance, you can pass "user data" to the instance that is used to perform automated configuration tasks, or to run scripts after the instance starts.
+When you launch an Amazon EC2 instance, you can pass [USER DATA](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/user-data.html) to the instance that is used to perform automated configuration tasks, or to run scripts after the instance starts.
 
 This simple User Data script can be used with an Amazon Linux 2023 instance to configure the Apache web server listening on port 80 (http://) and 443 (https://) - using a self signed certificate.
 
