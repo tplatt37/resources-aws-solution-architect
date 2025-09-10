@@ -45,14 +45,13 @@
 
 ## CloudTrail (Who dun it?)
 
-
 # Day 2 
 
-## S3
+## DynamoDB 
 
 ## Relational Database Service
 
-## DynamoDB 
+## S3
 
 ## Simple Notification Service (SNS)
 
@@ -62,8 +61,7 @@
 
 ## CloudFormation (Infrastructure as Code)
 
-
-## Systems Manager 
+## CloudFront
 
 ## AWS Organizations & Control Tower
 
@@ -74,6 +72,8 @@
 ### Site to Site VPN 
 
 ### Direct Connect
+
+## Elastic Container Service (ECS)
 
 ## AWS Certified Solutions Architect - Associate
 
