@@ -21,9 +21,17 @@
 
 ### VPC 
 
+### CIDR (Classless Internet Domain Routing) - IP Address Ranges
+
 ### Subnets
 
-#### Private vs Public 
+### Route Tables
+
+### Subnets Private vs Public 
+
+### Integret Gateway
+
+### NAT Gateway
 
 ### Network ACLs and Security Groups (firewalls)
 
@@ -41,9 +49,13 @@
 
 ### Auto Scaling Groups (ASG)
 
+### Launch Template - like a blueprint
+
 ### Elastic Load Balancer (ELB)
 
 ## CloudTrail (Who dun it?)
+
+
 
 # Day 2 
 
