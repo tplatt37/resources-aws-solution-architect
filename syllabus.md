@@ -67,6 +67,8 @@
 
 ### A place to put our To Do App Build
 
+#### CloudShell and AWS CLI
+
 ## Relational Database Service
 
 ### Multi-AZ Instace vs Cluster  
@@ -80,6 +82,15 @@
 ### Basic features
 
 ### Database Table for To Do App
+
+## Create an Instance Profile / Role / Policy for EC2
+    SSMManagedInstanceCore
+    S3ReadOnly 
+    DynamoDBFull
+    
+## Install "To Do" via EC2 User Data 
+
+
 
 ## Simple Notification Service (SNS)
 
