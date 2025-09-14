@@ -15,6 +15,8 @@
 
 #### Volumes
 
+##### Encryption
+
 #### Snapshots
 
 ## Virtual Private Cloud (VPC) 
@@ -59,33 +61,52 @@
 
 # Day 2 
 
-## DynamoDB 
+## S3
+
+### "Super Powers" and features
+
+### A place to put our To Do App Build
 
 ## Relational Database Service
 
-## S3
+### Multi-AZ Instace vs Cluster  
+
+### Encryption, Backups, Read Replicas
+
+### Aurora vs other types
+
+## DynamoDB 
+
+### Basic features
+
+### Database Table for To Do App
 
 ## Simple Notification Service (SNS)
 
+### Topics & Subscriptions
+
+### Topic - for Notifications when a new Task is added
+
+## Lambda
+
+### Serverless Compute - FaaS
+
+### A Lambda to export To Do Items into a CSV (and put into S3)
+
 ## Simple Queue Service (SQS)
+
+### Decoupling using Queues
+
+### Dropping a queue item into SQS queue -> Lambda -> Topic -> Notification when Export is done
+
 
 # Day 3 
 
 ## CloudFormation (Infrastructure as Code)
 
-## CloudFront
-
-## AWS Organizations & Control Tower
-
-## VPC Advanced
-
-### Peering Connections
-
-### Site to Site VPN 
-
-### Direct Connect
-
 ## Elastic Container Service (ECS)
+
+## CloudFront
 
 ## AWS Certified Solutions Architect - Associate
 
