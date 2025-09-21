@@ -67,8 +67,6 @@
 
 ### A place to put our To Do App Build
 
-#### CloudShell and AWS CLI
-
 ## Relational Database Service
 
 ### Multi-AZ Instace vs Cluster  
@@ -112,6 +110,8 @@
 
 
 # Day 3 
+
+#### CloudShell and AWS CLI
 
 ## CloudFormation (Infrastructure as Code)
 
